@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new 
 - 🌱 I’m currently learning APP development
 - 💞️ I’m looking to collaborate on tech communities, Innovative projects.
-- 📫 to reach me [kyvpavan@gmaill.com](url)
+- 📫 to reach me [kyvpavan@gmaill.com](mailto:kyvpavan@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I smile most when I’m learning new things.
 <!---
